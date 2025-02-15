@@ -1,0 +1,7 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(50, 50)">
+    <path d="M200 0C89.543 0 0 89.543 0 200s89.543 200 200 200 200-89.543 200-200S310.457 0 200 200zM200 350c-82.843 0-150-67.157-150-150S117.157 50 200 50s150 67.157 150 150-67.157 150-150 150z" fill="#1a2942"/>
+    <text x="100" y="250" font-family="Arial" font-size="120" font-weight="bold" fill="#1a2942">SR</text>
+    <circle cx="300" cy="100" r="20" fill="#df0000"/>
+  </g>
+</svg>
